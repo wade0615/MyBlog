@@ -7,13 +7,13 @@
 menu:
   Home: / || fa fa-home
   Archives: /archives/ || fa fa-archive
-  Tags: /tags/ || fa fa-tags
+  # Tags: /tags/ || fa fa-tags
   Categories: /categories/ || fa fa-folder-open
-  Link: /link/ || fa fa-link
+  # Link: /link/ || fa fa-link
   About: /about/ || fa fa-heart
-  List||fa fa-list:
-    - Music || /music/ || fa fa-music
-    - Movie || /movies/ || fa fa-film
+  # List||fa fa-list:
+    # - Music || /music/ || fa fa-music
+    # - Movie || /movies/ || fa fa-film
 
 # Favicon
 # ---------------
@@ -128,7 +128,7 @@ lodding_bg:
 #  post: /img/loading.gif ##加載動畫
 
 post_meta:
-  date_type: both # or created or updated 文章日期是创建日或者更新日或都显示
+  date_type: created # or created or updated 文章日期是创建日或者更新日或都显示
   categories: true # or false 是否显示分类
   tags: true # or false 是否显示标签
 
@@ -287,7 +287,7 @@ Flink:
 
 # 打賞按鈕
 reward:
-  enable: true
+  enable: false
   QR_code:
     - itemlist:
         img: /img/wechat.jpg
@@ -298,7 +298,7 @@ reward:
 
 # 推薦文章
 related_post:
-  enable: true
+  enable: false
   limit: 6 # 顯示推薦文章數目
   date_type: created # or created or updated 文章日期顯示创建日或者更新日
 
@@ -328,7 +328,7 @@ index_top_img_height: #主頁top_img高度 例如 300px/300em/300rem  不能使�
 # 主頁文章COVER顯示位置
 # 三個值可配置 left , right , both
 # left(全部圖片顯示在左邊)，right(全部圖片顯示在右邊)，both(左右左右順序顯示)
-index_post_cover: both
+index_post_cover: right
 
 # category和tag頁的UI設置
 # index 值代表 UI將與首頁的UI一樣
@@ -453,8 +453,9 @@ subtitle:
   source: false
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   sub:
-    - 今日事&#44;今日畢
-    - Never put off till tomorrow what you can do today
+    # - 今日事&#44;今日畢
+    - You don't travel to see different things
+    - You trevel to see things different.
 
 ####    側邊欄    ####
 #-------------------------------------
@@ -463,14 +464,14 @@ aside_mobile: true
 
 # 側邊欄顯示設置
 aside:
-  position: right # left or right
+  position: left # left or right
   card_author: true
-  card_announcement: true
-  card_recent_post: true
-  card_categories: true
-  card_tags: true
-  card_archives: true
-  card_webinfo: true
+  card_announcement: false
+  card_recent_post: false
+  card_categories: false
+  card_tags: false
+  card_archives: false
+  card_webinfo: false
 
 # 網站公告
 announcement:
@@ -494,7 +495,7 @@ runtimeshow:
 #----------------------------------------------
 # 簡繁轉換
 translate:
-  enable: true
+  enable: false
   # 默認按鈕顯示文字
   default: 繁
   #网站默认语言，1: 繁體中文, 2: 简体中文
@@ -510,7 +511,7 @@ translate:
 
 #閲讀模式
 readmode:
-  enable: true
+  enable: false
 
 # 夜間模式
 darkmode:
