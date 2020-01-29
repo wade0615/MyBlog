@@ -22,7 +22,7 @@ hexo.extend.filter.register('after_post_render', data => {
         $(o).attr('alt') +
         '" class="fancybox"></a>'
       )
-      $(o).wrap($a)    
+      // $(o).wrap($a)
     });
 
   }
@@ -31,7 +31,7 @@ hexo.extend.filter.register('after_post_render', data => {
     if (imgList.length) {
       imgList.each((i, o) => {
         var $a = $('<div></div>')
-        $(o).wrap($a)
+        // $(o).wrap($a)
       })
     }  
   }
@@ -40,7 +40,7 @@ hexo.extend.filter.register('after_post_render', data => {
     var imgList = $(".justified-gallery > p >img")  
     if (imgList.length) {
       imgList.each((i, o) => {
-        $(o).wrap('<div></div>')
+        // $(o).wrap('<div></div>')
       })
     }  
   }

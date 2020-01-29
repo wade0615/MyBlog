@@ -12,7 +12,7 @@ hexo.extend.filter.register('after_post_render', data => {
     return;
   }
 
-  $('figure.highlight').wrap('<div class="code-area-wrap"></div>')
+  // $($('figure.highlight').wrap('<div class="code-area-wrap"></div>'))
   var $highlight_layout = $('<div class="highlight-tools"></div>')
 
   $('figure').before($highlight_layout)
