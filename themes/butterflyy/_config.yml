@@ -17,7 +17,7 @@ menu:
 
 # Favicon
 # ---------------
-favicon: /img/favicon.ico
+favicon: /img/favicon.png
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -52,9 +52,12 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
-  fa fa-envelope: mailto:xxxxxxxx@gmail.com
-  fa fa-rss: /atom.xml
+  fa fa-github: https://github.com/wade0615
+  fa fa-gitlab: https://gitlab.com/Wade-WU
+  fa fa-medium: https://medium.com/@wsw0615
+  fa fa-facebook: https://www.facebook.com/profile.php?id=100002082737213
+  fa fa-envelope: mailto:wsw0615@gmail.com
+  # fa fa-rss: /atom.xml
 
 ####    search    ####
 # Algolia search
@@ -98,25 +101,29 @@ katex:
 
 # Post info settings
 # ---------------
-avatar: /img/avatar.png
+avatar: /img/avatar.jpg
 
 # the banner image of index
-index_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+# index_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+index_img: /img/iceland.jpg
 
 # if the banner of page not setting,it will show the top_img
 default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
 
 # the default cover of the post
-default_cover: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png
+# default_cover: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png
+default_cover: /img/postcover.jpg
 
 # the banner image of archive page
-archive_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/archive.jpg
+# archive_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/archive.jpg
+archive_img: /img/archive.jpg
 
 # the banner image of tag page
 tag_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/tag.png
 
 # the banner image of category page
-category_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/category.jpg
+# category_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/category.jpg
+category_img: /img/category.jpg
 
 # 如果你有使用hexo-douban去生成movie界面，可配置這個
 movies_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/movie.jpg
@@ -142,10 +149,10 @@ toc:
 
 # auto open the sidebar in 'post'
 auto_open_sidebar:
-  enable: true
+  enable: false
 
 post_copyright:
-  enable: true
+  enable: false
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -161,7 +168,7 @@ addThis:
   pubid:
 
 sharejs:
-  enable: true
+  enable: false
   sites: facebook,twitter,wechat,weibo,qq
 
 # https://www.addtoany.com/
@@ -308,10 +315,10 @@ related_post:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 # ---------------
-# theme_color:
-#   enable: true
-#   main: "#49B1F5"
-#   paginator: "#00c4b6"
+theme_color:
+  enable: true
+  main: "#ffd400"
+  paginator: "#ffd400"
 #   button_hover: "#FF7242"
 #   text_selection: "#00c4b6"
 #   link_color: "#99a9bf"
@@ -341,10 +348,10 @@ tag_ui: # 留空或index
 # 圖片格式 background: url(http://xxxxxx.com/xxx.jpg)
 # 顔色 background: '#49B202'
 # 留空 顯示白色
-background:
+background: '#2b2b2b'
 
 # footer是否顯示圖片背景(與top_img一致)
-footer_bg: false
+footer_bg: true
 
 # 背景特效
 # 避免卡頓，建議只開啓一個
@@ -453,9 +460,8 @@ subtitle:
   source: false
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   sub:
-    # - 今日事&#44;今日畢
-    - You don't travel to see different things
-    - You trevel to see things different.
+    - You dont travel to see different things
+    - you trevel to see things different
 
 ####    側邊欄    ####
 #-------------------------------------
@@ -480,9 +486,9 @@ announcement:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+  site_uv: false
+  site_pv: false
+  page_pv: false
 
 # 網頁開通時間
 # 格式: 月/日/年 時間
