@@ -11,18 +11,20 @@
 
   & > .recent-post-item
     display: flex
+    // position: relative
     flex-direction: row
     align-items: center
     margin-top: 20px
     padding: 0
     height: 280px
-    border-radius: 8px
-    background: #fff
-    box-shadow: 0 4px 8px 6px rgba(7, 17, 27, .06)
+    // border-radius: 8px
+    border-bottom 2px solid #b2b2b2
+    background: #2b2b2b
+    // box-shadow: 0 4px 8px 6px rgba(7, 17, 27, .06)
     transition: all .3s
 
     &:hover
-      box-shadow: 0 4px 12px 12px rgba(7, 17, 27, .15)
+      // box-shadow: 0 4px 12px 12px rgba(7, 17, 27, .15)
 
       img.post_bg
         transform: scale(1.1)
@@ -53,6 +55,7 @@
       overflow: hidden
       width: 45%
       height: 280px
+      display: none
 
       img.post_bg
         display: block
@@ -71,13 +74,13 @@
       display: inline-block
       overflow: hidden
       padding: 0 40px
-      width: 55%
+      // width: 55%
 
       & > .article-title
         display: -webkit-box
         overflow: hidden
         margin-bottom: .3rem
-        color: $black
+        color: #b2b2b2
         text-decoration: none
         text-overflow: ellipsis
         word-wrap: break-word
