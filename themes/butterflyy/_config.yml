@@ -460,8 +460,12 @@ subtitle:
   source: false
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   sub:
-    - You dont travel to see different things
-    - you trevel to see things different
+    - Junior Frontend Developer
+    - Amateur Barista
+    - Badminton Fanatic
+    - PC Game Lover
+    - Novice Hiker
+    - Former Mechanical DQA Engineer
 
 ####    側邊欄    ####
 #-------------------------------------
