@@ -55,8 +55,8 @@ social:
   fa fa-github: https://github.com/wade0615
   fa fa-gitlab: https://gitlab.com/Wade-WU
   fa fa-medium: https://medium.com/@wsw0615
-  fa fa-facebook: https://www.facebook.com/profile.php?id=100002082737213
-  fa fa-envelope: mailto:wsw0615@gmail.com
+  # fa fa-facebook: https://www.facebook.com/profile.php?id=100002082737213
+  # fa fa-envelope: mailto:wsw0615@gmail.com
   # fa fa-rss: /atom.xml
 
 ####    search    ####
