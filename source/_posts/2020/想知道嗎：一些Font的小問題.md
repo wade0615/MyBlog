@@ -20,8 +20,7 @@ category: 想知道嗎
 * font-awesome 是被設計用來緊貼使用者專案中前後 HTML 文檔的 inline 元素
 * 而且會繼承其父層的 CSS 字體設定 style
 * 所以他是『字』！他是『字』！
-![img](https://miro.medium.com/max/546/1*6kgxWGNk0iS8CtVzcjmTVw.png)
-![img](https://miro.medium.com/max/545/1*xo-hIhbbpn1w-lV2bfGHKg.png)
+![img](https://miro.medium.com/max/546/1*6kgxWGNk0iS8CtVzcjmTVw.png =50%x)![img](https://miro.medium.com/max/545/1*xo-hIhbbpn1w-lV2bfGHKg.png =50%x)
 
 要記得把他當成字來用喔！
 
