@@ -21,7 +21,7 @@ date: 2020-01-22 20:58:55
 
 嗨！我是一名網頁前端開發者，正在積極探索世界並發展個人特質，無論我身在世界上哪個角落，我不是正在帶給人們快樂，就是正在前往這樣位子的路上。
 
-我是吳書瑋，你可以藉由 [<i class="fa fa-facebook-square"></i>](https://www.facebook.com/profile.php?id=100002082737213) 找到我，或是直接 [<i class="fa fa-envelope"></i>](mailto:wsw0615@gmail.com) 聯絡我
+我是吳書瑋，你可以藉由 [<i class="fa fa-facebook-square"></i> FB](https://www.facebook.com/profile.php?id=100002082737213) 找到我，或是直接 [<i class="fa fa-envelope"></i> E-mail](mailto:wsw0615@gmail.com) 聯絡我
 
 讓我們來聊聊吧！
 
