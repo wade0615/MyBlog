@@ -23,8 +23,7 @@ category: 晨曦玩家
 
 下一個階段應該就可以直接跳躍來到國中了吧～這也是大部分人問我個人遊戲經歷時，我會開始描述的一段，我永遠記得第一次被帶進國中旁邊的網咖 — *概念生活館*，跟著一群國中同學看著他們玩著*跑跑卡丁車*，第一次拿同學的帳號試玩就把人撞出賽道的畫面，隨後逐漸認識當時熱門的 *CS Online 、魔獸三國、魔獸世界、魔獸信長之野望、英雄聯盟*，這些遊戲伴隨著我度過遊戲中的主要時間線，其他零碎的還包含 *玄武豪俠傳、星海爭霸二、暗黑破壞神三、世紀帝國三* 等等，主要也都是以 PC 遊戲為主，家中並不被允許出現 *家用遊戲機* 系列的產品，當時的 *手機遊戲* 也還未發展成熟。
 
-![img](/images/2020/晨曦玩家：GameStarted/Snipaste_2020-01-11_12-43-42.png)
-![img](/images/2020/晨曦玩家：GameStarted/Snipaste_2020-01-11_12-48-11.png)
+![img](/images/2020/晨曦玩家：GameStarted/Snipaste_2020-01-11_12-43-42.png =50%x)![img](/images/2020/晨曦玩家：GameStarted/Snipaste_2020-01-11_12-48-11.png =50%x)
 
 畢竟學生時代玩遊戲很大一部分除了開心，也是為了和同儕之間可以有話題可以閒聊，這些從當時選擇遊戲的取向主要包含 免費、競爭性、技巧性、多人遊戲性 等就可以略知一二，主要在玩得像是 *CS Online* 與 *英雄聯盟* 也都是這樣類型的遊戲，然而 *暴雪* 系列的遊戲豐富的劇情，沉浸式的故事體驗，都在逐漸讓我對於遊戲有新一份的見解。
 
@@ -34,9 +33,7 @@ category: 晨曦玩家
 
 > 暗希臘天降，北歐光隊，饕餮獸隊，龍隊…還有最重要的 妲己！！！
 
-![img](/images/2020/晨曦玩家：GameStarted/Pet515.png)
-![img](/images/2020/晨曦玩家：GameStarted/Pet945.png)
-![img](/images/2020/晨曦玩家：GameStarted/Pet595.png)
+![img](/images/2020/晨曦玩家：GameStarted/Pet515.png =33%x)![img](/images/2020/晨曦玩家：GameStarted/Pet945.png =33%x)![img](/images/2020/晨曦玩家：GameStarted/Pet595.png =33%x)
 
 談回 PC Game 的部分，在大一宿舍內最讓我印象深刻的，除了持續有在打的 *LOL* 之外，就屬跟室友們一起玩的 *Minecraft* 了，一群人創了一個伺服器，一起蓋房子採資源，一起挖礦打殭屍，甚至有同學真的沒日沒夜地在打，打到有天睡覺起來他就默默地說他已經自己殺掉 *終界龍* 了，大夥又震驚又哭笑不得。
 
@@ -45,17 +42,14 @@ category: 晨曦玩家
 > 『我曾經也是個冒險者，直到我膝蓋中了一箭』
  — 上古卷軸5：無界天際
 
-![img](/images/2020/晨曦玩家：GameStarted/5554e37490c26d66e83f9a82a1026f43f606ffef.jpg)
-![img](/images/2020/晨曦玩家：GameStarted/tes_v___skyrim_wallpaper_by_ryynanen007_d3acrmm.jpg)
-![img](/images/2020/晨曦玩家：GameStarted/0001034970.jpeg)
+![img](/images/2020/晨曦玩家：GameStarted/5554e37490c26d66e83f9a82a1026f43f606ffef.jpg =33%x)![img](/images/2020/晨曦玩家：GameStarted/tes_v___skyrim_wallpaper_by_ryynanen007_d3acrmm.jpg =33%x)![img](/images/2020/晨曦玩家：GameStarted/0001034970.jpeg =33%x)
 
 畢業之後賺了點小錢，自己升級入手了一台規格更好一點的桌機，除了在 *英雄聯盟* 有更好的遊戲體驗之外，也與朋友們一同嘗試了 G 社 的大逃殺類型遊戲 — *R.O.E無限法則* ，沒有入坑當時最大的 *PUBG 絕地求生* 的原因，其實就只是因為當時有朋友沒錢買…但大家又想一起玩，所以才選擇免費的而已，然而多虧了 *R.O.E* 有保護隊友的機制，不像 *PUBG* 會誤傷隊友，我們才能在 *R.O.E* 裡面偶爾吃雞一下，不然閃光彈手榴彈互丟是常有的事，若是我們一開始選擇的是 *PUBG* ，恐怕每次開場我們就先被自己人幹掉了吧！
 
 > 『縮圈了縮圈了！幹飛機又在頭上！我根本天選之人啊！』
  — 玄月
 
-![img](/images/2020/晨曦玩家：GameStarted/talon_by_korhiper_d9fdgpz.jpg)
-![img](/images/2020/晨曦玩家：GameStarted/xroewallpaper_bryaanz8-1024x576.jpg.pagespeed.ic.9dAJtKTUiS.jpeg)
+![img](/images/2020/晨曦玩家：GameStarted/talon_by_korhiper_d9fdgpz.jpg =50%x)![img](/images/2020/晨曦玩家：GameStarted/xroewallpaper_bryaanz8-1024x576.jpg.pagespeed.ic.9dAJtKTUiS.jpeg =50%x)
 
 最後就要提到我最近幾年最後一次玩的一款作品了， ***NieR:Automata 尼爾：自動人形*** ，我會知道這款作品還真要感謝我室友， *尼爾：自動人形* 發布的的時間剛好是我大學的最後一個學期，我看著我室友玩遍這款作品的每個細節與結局，聽他跟我描述著每個環節的故事跟每句對話與前作的關聯，過程讓我回憶起我在閱讀西洋奇幻文學小說的感覺，讓我對這款作品留下的深刻的印象，因此當我有了適當的硬體設備讓我可以玩這款遊戲時，我便立刻入手並投入在這款遊戲之中，雖然是在已經被暴雷的的情況下去玩，依然讓我對他劇情故事的鋪陳著迷不已，城市廢墟的哀傷、詭譎繽紛的遊樂園、荒蕪寂寞的沙漠艾米爾、***“Weight of the World”*** 更是奏出 2B 內心一直掙扎的渺小願望，也透露著 2B、9S、以及 A2 與生俱來的輪迴宿命。
 
