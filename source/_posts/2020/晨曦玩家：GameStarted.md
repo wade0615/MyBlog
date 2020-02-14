@@ -5,7 +5,7 @@ tags:
 category: 晨曦玩家
 ---
 
-[Medium](https://medium.com/@wsw0615/%E6%99%A8%E6%9B%A6%E7%8E%A9%E5%AE%B6-game-started-21e88fa2ce4b)
+[<i class="fa fa-medium"></i>](https://medium.com/@wsw0615/%E6%99%A8%E6%9B%A6%E7%8E%A9%E5%AE%B6-game-started-21e88fa2ce4b)
 
 > 『虛擬世界雖然能帶給人無比的喜悅，但真實世界是唯一可以好好吃一餐的地方』
  — 一級玩家

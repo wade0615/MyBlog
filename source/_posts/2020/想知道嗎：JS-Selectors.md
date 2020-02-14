@@ -5,7 +5,7 @@ tags:
 category: 想知道嗎
 ---
 
-[Medium](https://medium.com/@wsw0615/%E6%83%B3%E7%9F%A5%E9%81%93%E5%97%8E-js-selectors-3c8e3f4de93a)
+[<i class="fa fa-medium"></i>](https://medium.com/@wsw0615/%E6%83%B3%E7%9F%A5%E9%81%93%E5%97%8E-js-selectors-3c8e3f4de93a)
 
 自己在參與一些簡單的活動與有趣的專案時，提前接觸到了 JS 相關的應用，查閱資料的時候發現，要用 JS 選取到我想要的 HTML DOM 元素時，有眼花撩亂的四種方式！我的天…搞什麼啊…因此決定簡單的記錄一下這件事。
 

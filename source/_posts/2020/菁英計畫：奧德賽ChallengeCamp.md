@@ -5,7 +5,7 @@ tags:
 category: 菁英計畫
 ---
 
-[Medium](https://medium.com/@wsw0615/%E8%8F%81%E8%8B%B1%E8%A8%88%E7%95%AB-%E5%A5%A7%E5%BE%B7%E8%B3%BD-challenge-camp-dd2f65b39eb0)
+[<i class="fa fa-medium"></i>](https://medium.com/@wsw0615/%E8%8F%81%E8%8B%B1%E8%A8%88%E7%95%AB-%E5%A5%A7%E5%BE%B7%E8%B3%BD-challenge-camp-dd2f65b39eb0)
 
 ## 序章
 2019/11/7 （四）12:00pm，我照常吃著我的午餐，想著 WEB 電子書壓力鍋 接下來該做的事，明天的驗收該如何呈現，然而此刻的我不知道的是，下午的《想知道嗎》將會帶給我何種人生上的轉折。

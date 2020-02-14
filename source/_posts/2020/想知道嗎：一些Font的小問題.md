@@ -5,7 +5,7 @@ tags:
 category: 想知道嗎
 ---
 
-[Medium](https://medium.com/@wsw0615/%E6%83%B3%E7%9F%A5%E9%81%93%E5%97%8E-%E4%B8%80%E4%BA%9Bfont%E7%9A%84%E5%B0%8F%E5%95%8F%E9%A1%8C-1ea60065b372)
+[<i class="fa fa-medium"></i>](https://medium.com/@wsw0615/%E6%83%B3%E7%9F%A5%E9%81%93%E5%97%8E-%E4%B8%80%E4%BA%9Bfont%E7%9A%84%E5%B0%8F%E5%95%8F%E9%A1%8C-1ea60065b372)
 來紀錄一點點在使用font 上遇到的一點小狀況吧！
 
 ## 先來簡單的複習一下 px ex em rem 分別是啥
