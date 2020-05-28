@@ -446,7 +446,8 @@ blog_title_font:
 # 水平分隔綫
 hr:
   enable: true
-  icon: '\f21c' #fontawesome上圖標的Unicode
+  # icon: '\f21c' #fontawesome上圖標的Unicode
+  icon: '\'
   icon-top: -20px
 
 # 主頁subtitle
