@@ -20,8 +20,6 @@ category: 想知道嗎
 
 [Webpack官網](https://webpack.docschina.org/)
 
-[Webpack 筆記](https://hackmd.io/UkvusiO3TTCcNmICec5shQ)
-
 我們需要 WebPack 幫我們打包轉譯整個我們開發用的 JS
 `npm install webpack webpack-cli --save-dev`
 
