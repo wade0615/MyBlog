@@ -212,11 +212,11 @@ gitalk:
   enable: false
   client_id:
   client_secret:
-  repo:
-  owner:
+  repo: https://github.com/wade0615/MyBlog
+  owner: https://github.com/wade0615
   admin:
   language: # en , zh-CN , zh-TW
-  count: false # top_img顯示評論數
+  count: true # top_img顯示評論數
 
 # valine comment system. https://valine.js.org
 valine:
@@ -253,7 +253,7 @@ ICP:
 baidu_analytics:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-168202389-1
 
 # Tencent_analytics ID
 tencent_analytics:
