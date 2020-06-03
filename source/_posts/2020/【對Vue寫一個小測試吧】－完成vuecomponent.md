@@ -40,7 +40,7 @@ new Vue({
 將 webpack.config.js 裡的 `entry:` 改成 `"./components/index.js"`
 變成：
 
-![](https://i.imgur.com/yqCi26i.png)
+![img](/images/2020/【對Vue寫一個小測試吧】－完成vuecomponent/0_eJ5VPfJIbRKrXsYS.png)
 
 這樣才能正確引入我們想轉譯的 .js 喔～
 
@@ -49,7 +49,7 @@ new Vue({
 `npm run build`
 
 我們的目錄底下應該會多一個 `dist` 的資料夾，裡面有一個 `build.js` 的檔案
-![](https://i.imgur.com/igatSgu.png)
+![img](/images/2020/【對Vue寫一個小測試吧】－完成vuecomponent/0_4GNJDk-VXkBwK9CN.png)
 
 這個 build.js 就是 webpack 幫我們把 index.js 裡面，所有我們用的開發用的 JS 語法，像是commonJS的語法（require）、ES6的語法(const)、.vue 的 component 等等，轉譯成瀏覽器知道的ＪＳ，讓瀏覽器可以運行。
 
@@ -71,7 +71,7 @@ new Vue({
 
 點開 index.html 應該就會有類似這樣的畫面了喔：
 
-![](https://i.imgur.com/68A5U3d.png)
+![img](/images/2020/【對Vue寫一個小測試吧】－完成vuecomponent/0_TZwgnjuSuK_JkjWg.png)
 
 之後有任何的變更都記得要再執行 `npm run build` 更新 webPack 整理的 `build.js` 喔！
 
