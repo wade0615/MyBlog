@@ -40,7 +40,7 @@ webpack.config.js 裡面應該長這樣：
 </template>
 
 <script>
-export default {
+module.exports = {
   data () {
     return {
       msg: 'Hello world!'
