@@ -5,7 +5,7 @@ date: 2020-01-22 20:58:55
 
 嗨！我是吳書瑋，看到這頁的你，我想問你一個問題…
 
-    你覺得，孩子們為何喜歡運動員？
+***你覺得，孩子們為何喜歡運動員？***
 
 我曾擁有近七年的機械相關學習歷程，是可以在機構空間考試抓考題漏洞，卻回答不出來我為何要進修機器人學的天賦型學生，並在進入鴻海持股的陽程科技中工作後擔任部門要職近一年。
 
@@ -25,4 +25,4 @@ date: 2020-01-22 20:58:55
 
 讓我們來聊聊吧！
 
-U don't travel to see different things, you trevel to see things different.
+U don't travel to see different things, you travel to see things different.
