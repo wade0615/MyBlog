@@ -1,7 +1,9 @@
 ---
-title: About Me
+title: 
 date: 2020-01-22 20:58:55
 ---
+
+#### 你用什麼方式謀生，我不關心； 我想知道，你在追求什麼，你是否敢於做夢，並去觸碰你內心的渴望。<br>你的年齡多大，我不在乎； 我想知道，你是否願意像傻瓜一樣勇往直前，為了愛、夢想，還有活著就該有的冒險。
 
 嗨！我是吳書瑋，看到這頁的你，我想問你一個問題…
 
@@ -25,4 +27,4 @@ date: 2020-01-22 20:58:55
 
 讓我們來聊聊吧！
 
-U don't travel to see different things, you travel to see things different.
+#### You don't travel to see different things, <br>You travel to see things different.
