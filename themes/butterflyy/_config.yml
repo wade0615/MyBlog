@@ -210,8 +210,9 @@ laibili:
 
 gitalk:
   enable: false
-  client_id:
-  client_secret:
+  client_id: 1382d280468d9a8aee3e
+  client_secret: 4985ac7cec047e804ae2a199e92dee1840ac495e
+  # access_token: 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
   repo: https://github.com/wade0615/MyBlog
   owner: https://github.com/wade0615
   admin:
@@ -546,11 +547,11 @@ autoChangeMode: false
 #--------------------------------------------
 # medium_zoom https://github.com/francoischalifour/medium-zoom
 medium_zoom:
-  enable: false
+  enable: true
 
 # fancybox http://fancyapps.com/fancybox/3/
-fancybox:
-  enable: true
+fancybox: 
+  enable: false
 
 # Snackbar 彈窗
 # https://github.com/polonel/SnackBar
