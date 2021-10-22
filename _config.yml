@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://wade0615.github.io/
 root: /
-permalink: :title/
+permalink: :year/:title/
 # permalink: title
 permalink_defaults:
 pretty_urls:
@@ -35,7 +35,7 @@ skip_render:
 # Writing
 new_post_name: :year/:title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
