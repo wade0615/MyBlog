@@ -465,7 +465,7 @@ subtitle:
   source: false
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   sub:
-    - Junior Frontend Developer
+    - Frontend Developer
     - Amateur Barista
     - Badminton Fanatic
     - PC Game Lover
