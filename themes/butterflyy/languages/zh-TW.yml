@@ -12,7 +12,7 @@ copy:
   noSupport: 瀏覽器不支持
 
 page:
-  articles: 文章總覽
+  articles: 文章列表
   tag: 標籤
   category: 分類
   archives: Archives
@@ -77,7 +77,6 @@ share: 分享
 bookmark:
   title: 添加書籤
 
-
 rightside:
   readmode_title: 閲讀模式
   font_plus_title: 放大字體
@@ -105,5 +104,3 @@ Snackbar:
   cht_to_chs: 你已切換為簡體
   day_to_night: 你已切換為深色模式
   night_to_day: 你已切換為淺色模式
-
-
