@@ -254,7 +254,8 @@ ICP:
 baidu_analytics:
 
 # Google Analytics
-google_analytics: UA-168202389-1
+# google_analytics: UA-168202389-1
+google_analytics: 3806605178
 
 # Tencent_analytics ID
 tencent_analytics:
