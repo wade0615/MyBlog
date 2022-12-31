@@ -22,14 +22,14 @@ favicon: /img/favicon.png
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
-# pwa:
-#   enable: true
-#   manifest: /img/pwa/manifest.json
-#   theme_color: "#fff"
-#   apple_touch_icon: /img/pwa/apple-touch-icon.png
-#   favicon_32_32: /img/pwa/32.png
-#   favicon_16_16: /img/pwa/16.png
-#   mask_icon: /img/pwa/safari-pinned-tab.svg
+pwa:
+  enable: true
+  manifest: /manifest.json
+  theme_color: "#fff"
+  apple_touch_icon: /img/logo.jpg
+  favicon_32_32: /img/logo.jpg
+  favicon_16_16: /img/logo.jpg
+  mask_icon: /img/logo.jpg
 
 # Highlight theme
 # ---------------
@@ -102,7 +102,7 @@ katex:
 # Post info settings
 # ---------------
 # avatar: /img/avatar.jpg
-avatar: /img/avatar-me.jpg
+avatar: /img/avatar.jpg
 
 # the banner image of index
 # index_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg

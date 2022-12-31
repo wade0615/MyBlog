@@ -1,0 +1,45 @@
+{
+  "name": "W.S.Wade",
+  "short_name": "W.S.Wade",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "W.S.Wade's blog",
+  "icons": [
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "168x168",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
