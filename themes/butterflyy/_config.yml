@@ -455,7 +455,13 @@ hr:
 # 主頁subtitle
 # 打字效果
 subtitle:
-  enable: true
+  enable: false
+  effect: true
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 150 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
+  # loop (循環打字)
+  loop: true
   # source調用第三方服務
   # source: false 關閉調用
   # source: 1  調用金山詞霸的每日一句（簡體）
